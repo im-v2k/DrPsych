@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "697869545883",
+    "firebase_url": "https://drpsych-7afba.firebaseio.com",
+    "project_id": "drpsych-7afba",
+    "storage_bucket": "drpsych-7afba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697869545883:android:5e3c918334a4929f",
+        "android_client_info": {
+          "package_name": "com.coderiders.drpsych"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697869545883-7c6jnh73n0cbd0jb53h3a8m8jcdl71fs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coderiders.drpsych",
+            "certificate_hash": "90892be909c024bc7b0762491b9fb8ab303ef526"
+          }
+        },
+        {
+          "client_id": "697869545883-169nv0ac3gdl0nafdl549ehpilellhl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3Bh9EwcS5QiY5T4hQr5YsCKbTOPsfeoA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697869545883-169nv0ac3gdl0nafdl549ehpilellhl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
